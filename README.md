@@ -6,28 +6,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning..." alt="Typing SVG" /> 
 </div>
 
------
+----- 
 
 ### 👤 About Me
 <table width="100%" valign="center">
   <tr>
     <td width="60%" valign="center">
       <ul>
-        <li>🔭 I’m currently working on <b><a href="https://orbit-eight-psi.vercel.app/>Synapse</a></b></li>
+        <li>🔭 I’m currently working on <b><a href="https://orbit-eight-psi.vercel.app/" target="_blank">Synapse</a></b></li>
         <li>🌱 I’m mastering <b>Backend & Advanced System Design</b></li>
         <li>👨‍💻 Customizing my digital world at <b>portfolio</b></li>
         <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
       </ul>
     </td>
 
-  <td width="40%" valign="right">
+  <td width="40%" align="right">
       <img 
         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        alt="coding gif"
+        width="300"
       />
     </td>
   </tr>
 </table>
+
 
 
 ---
