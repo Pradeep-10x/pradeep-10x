@@ -22,9 +22,7 @@
 
   <td width="40%" align="right">
       <img 
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       
-   />
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
     </td>
   </tr>
 </table>
