@@ -9,20 +9,25 @@
 -----
 
 ### 👤 About Me
-<div>
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>🔭 I’m currently working on <b>[Synapse](https://orbit-eight-psi.vercel.app/)</b></li>
-          <li>🌱 I’m mastering <b>Backend & Advanced System Design</b></li>
-          <!-- <li>👨‍💻 Customizing my digital world at <b>[portfolio](https://portfolio-35dw.vercel.app/)</b></li> -->
-          <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" valign="center">
+  <tr>
+    <td width="60%" valign="center">
+      <ul>
+        <li>🔭 I’m currently working on <b><a href="https://orbit-eight-psi.vercel.app/>Synapse</a></b></li>
+        <li>🌱 I’m mastering <b>Backend & Advanced System Design</b></li>
+        <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
+      </ul>
+    </td>
+
+  <td width="40%" valign="right">
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        alt="coding gif"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 - 
