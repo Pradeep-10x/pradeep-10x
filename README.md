@@ -15,6 +15,7 @@
       <ul>
         <li>🔭 I’m currently working on <b><a href="https://orbit-eight-psi.vercel.app/>Synapse</a></b></li>
         <li>🌱 I’m mastering <b>Backend & Advanced System Design</b></li>
+        <li>👨‍💻 Customizing my digital world at <b>portfolio</b></li>
         <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
       </ul>
     </td>
