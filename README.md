@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning..." alt="Typing SVG" /> 
 </div>
 
------ 
+----
 
 ### 👤 About Me
 <table width="100%" valign="center">
