@@ -13,7 +13,7 @@
   <tr>
     <td width="60%" valign="center">
       <ul>
-        <li>🔭 I’m currently working on <b><a href="https://orbit-eight-psi.vercel.app/" target="_blank">Synapse</a></b></li>
+        <li>🔭 I’m currently working on <b><a href="https://relay-eta-three.vercel.app/" target="_blank">Relay</a></b></li>
         <li>🌱 I’m mastering <b>Backend & Advanced System Design</b></li>
         <li>👨‍💻 Customizing my digital world at <b>portfolio</b></li>
         <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
